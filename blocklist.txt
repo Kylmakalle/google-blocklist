@@ -3,3 +3,4 @@
 *://overcoder.net/*
 *://progi.pro/*
 *://stackoverrun.com/*
+*://qastack.ru/*
